@@ -20,5 +20,6 @@ This is a machine translation of the original Japanese text. Sorry if it's hard 
 - Customizable water surface appearance (grid/gradient/warning color).
 - Fine-tune sloshing intensity and other details via the config file.
 - Check the water movement using keyboard controls without launching the game (set `debug=true` in the config file).
+- Due to the use of PyInstaller, antivirus software may flag the program.
 
 Have a fun !!
